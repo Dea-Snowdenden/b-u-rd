@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "logo": "img/hblog1.jpg",
+    "name": "Hubbard Living",
+    "address": "Nashville, TN",
+    "shortDescription": "Premium Home Furnishings & Decor",
+    "products": [
+      {
+        "id": 1,
+        "image": "img/bangolf.jpg"
+      },
+      {
+        "id": 2,
+        "image": "img/01hublii.jpg"
+      },
+      {
+        "id": 3,
+        "image": "img/01culi.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "logo": "img/00phuad.jpg",
+    "name": "Allison Chains",
+    "address": "Carson City, NV",
+    "shortDescription": "Custom Made Products",
+    "products": [
+      {
+        "id": 1,
+        "image": "img/01manli.jpg"
+      },
+      {
+        "id": 2,
+        "image": "img/01pmill.jpg"
+      },
+      {
+        "id": 3,
+        "image": "img/01forg.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "logo": "img/00phuao.jpg",
+    "name": "Naomi Online Bookstore",
+    "address": "Jacksonville, FL",
+    "shortDescription": "Books Online at the speed of light",
+    "products": [
+      {
+        "id": 1,
+        "image": "img/06nbook.jpg"
+      },
+      {
+        "id": 2,
+        "image": "img/06nbook.png"
+      },
+      {
+        "id": 3,
+        "image": "img/06nbookc.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "logo": "img/00phuae.jpg",
+    "name": "Reid's Wedding store",
+    "address": "Manhattan, NY",
+    "shortDescription": "Dapper fitting for the perfect day",
+    "products": [
+      {
+        "id": 1,
+        "image": "img/06ashoe.jpg"
+      },
+      {
+        "id": 2,
+        "image": "img/06asw.jpg"
+      },
+      {
+        "id": 3,
+        "image": "img/06asho3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "logo": "img/00allisonmcleod29.jpg",
+    "name": "Allison's Cupcakes",
+    "address": "Portland, OR",
+    "shortDescription": "Sugary Goodness that melts.",
+    "products": [
+      {
+        "id": 1,
+        "image": "img/06cup1.jpg"
+      },
+      {
+        "id": 2,
+        "image": "img/06cup2.jpg"
+      },
+      {
+        "id": 3,
+        "image": "img/06cup3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "logo": "img/00joshhannah11.jpg",
+    "name": "Joshua's Comic Store",
+    "address": "San Diego, CA",
+    "shortDescription": "Classics to Mangas. All here.",
+    "products": [
+      {
+        "id": 1,
+        "image": "img/06com1.jpg"
+      },
+      {
+        "id": 2,
+        "image": "img/06com2.jpg"
+      },
+      {
+        "id": 3,
+        "image": "img/06com3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "logo": "img/00phuaf.jpg",
+    "name": "Milroy's Lounger",
+    "address": "Milano, IT",
+    "shortDescription": "Furnitures for your Life",
+    "products": [
+      {
+        "id": 1,
+        "image": "img/06furn1.jpg"
+      },
+      {
+        "id": 2,
+        "image": "img/06furn4.jpg"
+      },
+      {
+        "id": 3,
+        "image": "img/06furn3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "logo": "img/00phuag.jpg",
+    "name": "Pristine Home",
+    "address": "San Jose, CA",
+    "shortDescription": "Premium Home Store",
+    "products": [
+      {
+        "id": 1,
+        "image": "img/06lin1.jpg"
+      },
+      {
+        "id": 2,
+        "image": "img/06lin2.jpg"
+      },
+      {
+        "id": 3,
+        "image": "img/06lin4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "logo": "img/00phuay.jpg",
+    "name": "UkeMonkey Store",
+    "address": "Seattle, WA",
+    "shortDescription": "Custom Guitars and Ukuleles",
+    "products": [
+      {
+        "id": 1,
+        "image": "img/06uke1.jpg"
+      },
+      {
+        "id": 2,
+        "image": "img/06uke2.jpg"
+      },
+      {
+        "id": 3,
+        "image": "img/06uke3.jpg"
+      }
+    ]
+  }
+]

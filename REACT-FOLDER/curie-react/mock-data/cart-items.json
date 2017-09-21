@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Linidia Lamp for Living Essentials",
+    "price": 4250,
+    "image": "img/linidialamp.jpg",
+    "shopName": "PepperMill Lightspace"
+  },
+  {
+    "id": 2,
+    "name": "Moroccan Mint Tea set by Hubbard Living",
+    "price": 250,
+    "image": "img/morocteaa.jpg",
+    "shopName": "PepperMill Lightspace"
+  }
+]

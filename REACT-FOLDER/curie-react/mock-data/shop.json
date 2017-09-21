@@ -1,0 +1,62 @@
+{
+  "id": 1,
+  "logo": "/darwin/react/img/hblog1.jpg",
+  "cover": "/darwin/react/img/07store1.jpg",
+  "name": "Hubbard Living Essentials",
+  "address": "Nashville, TN",
+  "shortDescription": "remium Home Furnishings and Decor for the elite.",
+  "stats": {
+    "totalProduct": "1.0k",
+    "totalFollower": 496
+  },
+  "products": [
+    {
+      "id": 1,
+      "image": "/darwin/react/img/bangolf.jpg",
+      "name": "Bang and Olufsen",
+      "price": 735
+    },
+    {
+      "id": 2,
+      "image": "/darwin/react/img/bocciawo.jpg",
+      "name": "Boccia Women's watch",
+      "price": 649
+    },
+    {
+      "id": 3,
+      "image": "/darwin/react/img/linidialamp.jpg",
+      "name": "Premium Living room lamp",
+      "price": 435
+    },
+    {
+      "id": 4,
+      "image": "/darwin/react/img/bagh.jpg",
+      "name": "Hidesign Tote Bag",
+      "price": 355
+    },
+    {
+      "id": 5,
+      "image": "/darwin/react/img/bangolufsen.jpg",
+      "name": "B & O Play edition",
+      "price": 565
+    },
+    {
+      "id": 6,
+      "image": "/darwin/react/img/dronec.jpg",
+      "name": "DJI Phantom drone",
+      "price": 635
+    },
+    {
+      "id": 7,
+      "image": "/darwin/react/img/jaipblu.jpg",
+      "name": "Hubbard Ceramic Vase",
+      "price": 335
+    },
+    {
+      "id": 8,
+      "image": "/darwin/react/img/sofg.jpg",
+      "name": "Hubbard Fabric Lounger",
+      "price": 735
+    }
+  ]
+}

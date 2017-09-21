@@ -1,0 +1,1 @@
+webpackJsonp([2],{336:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var u=n(50);t.default=function(e){return{path:"usersetting",getComponent:function(t,r){n.e(12,function(t){var c=n(335).default,o=n(172).default;(0,u.injectReducer)(e,{key:"user",reducer:o}),r(null,c)})}}}}});

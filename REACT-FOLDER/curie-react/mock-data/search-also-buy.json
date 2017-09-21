@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Boccia Women's watch",
+    "price": 635,
+    "image": "img/macairoh.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Organic Prax Fiber Food",
+    "price": 35,
+    "image": "img/sofg.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Leather Tote Bag",
+    "price": 535,
+    "image": "img/spacex.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Home Fab Floor Lamp",
+    "price": 235,
+    "image": "img/bangolufsen.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Sofa Groove ",
+    "price": 35,
+    "image": "img/bangolf.jpg"
+  }
+]

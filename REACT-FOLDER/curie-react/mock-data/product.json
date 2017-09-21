@@ -1,0 +1,976 @@
+{
+    "id": 1,
+    "type": "product",
+    "mediaType": "youtubeVideo",
+    "mediaUrl": "https://www.youtube.com/watch?v=amhtkloe06k",
+    "mediaMore": [{"mediaType":"image", "mediaUrl":"img/watchgl.jpg"},{"mediaType":"image", "mediaUrl":"img/p53penb.jpg"},{"mediaType":"image", "mediaUrl":"img/pfash.jpg"}],
+    "text": "goTenna Smartphone Antenna",
+    "overview":"<ul><li>Sterling silver</li><li>Available in sizes 4 -8</li><li>Handmade in New York City</li></ul>",
+    "price": 120,
+    "totalFollower": 1162,
+    "shipping":"<span>Shipping-charge: <b>$34</b>Ships From: <br /> <img src='img/franceflag.png' width='16' height='16' /> <b>France</b> <br /> to <br /><img src='img/international.png' width='16' height='16' /> <b>Worldwide</b><br/>Estimated Delivery:<br/><b>4</b> to <b>6</b> days</span>",
+    "followers": [
+      {
+        "id": 1,
+        "name": "Allison",
+        "avatar": "img/00allisonmcleod29.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Josh",
+        "avatar": "img/00joshhannah11.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Steve",
+        "avatar": "img/00stevecurry51.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Norah",
+        "avatar": "img/00phuad.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Thomas",
+        "avatar": "img/00phuaf.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Lily",
+        "avatar": "img/00phuab.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Andrea",
+        "avatar": "img/00phuac.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Mike",
+        "avatar": "img/00phuae.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Laura",
+        "avatar": "img/00phuah.jpg"
+      },
+      {
+        "id": 10,
+        "name": "christine",
+        "avatar": "img/00phuag.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Adam",
+        "avatar": "img/00phuax.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Naomi",
+        "avatar": "img/00phuao.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Kelly",
+        "avatar": "img/00phuam.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Katie",
+        "avatar": "img/00phuay.jpg"
+      }
+    ],
+    "likeProduct":[
+  {
+    "id": 1,
+    "type": "product",
+    "mediaType": "youtubeVideo",
+    "mediaUrl": "https://www.youtube.com/watch?v=amhtkloe06k",
+    "mediaMore": [{"mediaType":"image", "mediaUrl":"img/watchgl.jpg"},{"mediaType":"image", "mediaUrl":"img/p53penb.jpg"},{"mediaType":"image", "mediaUrl":"img/pfash.jpg"}],
+    "text": "goTenna Smartphone Antenna",
+    "overview":"<ul><li>Sterling silver</li><li>Available in sizes 4 -8</li><li>Handmade in New York City</li></ul>",
+    "price": 120,
+    "totalFollower": 1162,
+    "followers": [
+      {
+        "id": 1,
+        "name": "Allison",
+        "avatar": "img/00allisonmcleod29.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Josh",
+        "avatar": "img/00joshhannah11.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Steve",
+        "avatar": "img/00stevecurry51.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Norah",
+        "avatar": "img/00phuad.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Thomas",
+        "avatar": "img/00phuaf.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Lily",
+        "avatar": "img/00phuab.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Andrea",
+        "avatar": "img/00phuac.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Mike",
+        "avatar": "img/00phuae.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Laura",
+        "avatar": "img/00phuah.jpg"
+      },
+      {
+        "id": 10,
+        "name": "christine",
+        "avatar": "img/00phuag.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Adam",
+        "avatar": "img/00phuax.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Naomi",
+        "avatar": "img/00phuao.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Kelly",
+        "avatar": "img/00phuam.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Katie",
+        "avatar": "img/00phuay.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "type": "product",
+    "mediaType": "image",
+    "mediaUrl": "img/watchgl.jpg",
+    "mediaMore": [{"mediaType":"image", "mediaUrl":"img/watchgl.jpg"},{"mediaType":"image", "mediaUrl":"img/p53penb.jpg"},{"mediaType":"image", "mediaUrl":"img/pfash.jpg"}],
+    "text": "goTenna Smartphone Antenna",
+    "overview":"<ul><li>Sterling silver</li><li>Available in sizes 4 -8</li><li>Handmade in New York City</li></ul>",
+    "price": 12000,
+    "totalFollower": 2320,
+    "followers": [
+      {
+        "id": 1,
+        "name": "Allison",
+        "avatar": "img/00allisonmcleod29.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Josh",
+        "avatar": "img/00joshhannah11.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Steve",
+        "avatar": "img/00stevecurry51.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Norah",
+        "avatar": "img/00phuad.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Thomas",
+        "avatar": "img/00phuaf.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Lily",
+        "avatar": "img/00phuab.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Andrea",
+        "avatar": "img/00phuac.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Mike",
+        "avatar": "img/00phuae.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Laura",
+        "avatar": "img/00phuah.jpg"
+      },
+      {
+        "id": 10,
+        "name": "christine",
+        "avatar": "img/00phuag.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Adam",
+        "avatar": "img/00phuax.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Naomi",
+        "avatar": "img/00phuao.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Kelly",
+        "avatar": "img/00phuam.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Katie",
+        "avatar": "img/00phuay.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "type": "product",
+    "mediaType": "image",
+    "mediaUrl": "img/p53penb.jpg",
+    "mediaMore": [{"mediaType":"image", "mediaUrl":"img/watchgl.jpg"},{"mediaType":"image", "mediaUrl":"img/p53penb.jpg"},{"mediaType":"image", "mediaUrl":"img/pfash.jpg"}],
+    "text": "53 Walnut Finish Pen",
+    "overview":"<ul><li>Sterling silver</li><li>Available in sizes 4 -8</li><li>Handmade in New York City</li></ul>",
+    "price": 200,
+    "totalFollower": 260,
+    "followers": [
+      {
+        "id": 1,
+        "name": "Norah",
+        "avatar": "img/00phuad.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Josh",
+        "avatar": "img/00joshhannah11.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Kelly",
+        "avatar": "img/00phuam.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "type": "product",
+    "mediaType": "image",
+    "mediaUrl": "img/boplay.png",
+    "mediaMore": [{"mediaType":"image", "mediaUrl":"img/watchgl.jpg"},{"mediaType":"image", "mediaUrl":"img/p53penb.jpg"},{"mediaType":"image", "mediaUrl":"img/pfash.jpg"}],
+    "text": "Bang and Olufsen Play",
+    "overview":"<ul><li>Sterling silver</li><li>Available in sizes 4 -8</li><li>Handmade in New York City</li></ul>",
+    "price": 648,
+    "totalFollower": 249,
+    "followers": [
+      {
+        "id": 1,
+        "name": "Norah",
+        "avatar": "img/00phuad.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Josh",
+        "avatar": "img/00joshhannah11.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Kelly",
+        "avatar": "img/00phuam.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "type": "product",
+    "mediaType": "vimeoVideo",
+    "mediaUrl": "https://vimeo.com/185808340",
+    "mediaMore": [{"mediaType":"image", "mediaUrl":"img/watchgl.jpg"},{"mediaType":"image", "mediaUrl":"img/p53penb.jpg"},{"mediaType":"image", "mediaUrl":"img/pfash.jpg"}],
+    "text": "goTenna Smartphone Antenna",
+    "overview":"<ul><li>Sterling silver</li><li>Available in sizes 4 -8</li><li>Handmade in New York City</li></ul>",
+    "price": 120,
+    "totalFollower": 148,
+    "followers": [
+      {
+        "id": 1,
+        "name": "Allison",
+        "avatar": "img/00allisonmcleod29.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Josh",
+        "avatar": "img/00joshhannah11.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Steve",
+        "avatar": "img/00stevecurry51.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Norah",
+        "avatar": "img/00phuad.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Thomas",
+        "avatar": "img/00phuaf.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Lily",
+        "avatar": "img/00phuab.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Andrea",
+        "avatar": "img/00phuac.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Mike",
+        "avatar": "img/00phuae.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Laura",
+        "avatar": "img/00phuah.jpg"
+      },
+      {
+        "id": 10,
+        "name": "christine",
+        "avatar": "img/00phuag.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Adam",
+        "avatar": "img/00phuax.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Naomi",
+        "avatar": "img/00phuao.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Kelly",
+        "avatar": "img/00phuam.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Katie",
+        "avatar": "img/00phuay.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "type": "product",
+    "mediaType": "image",
+    "mediaUrl": "img/pbed.jpg",
+    "mediaMore": [{"mediaType":"image", "mediaUrl":"img/watchgl.jpg"},{"mediaType":"image", "mediaUrl":"img/p53penb.jpg"},{"mediaType":"image", "mediaUrl":"img/pfash.jpg"}],
+    "text": "Elegant Bedside Table",
+    "overview":"<ul><li>Sterling silver</li><li>Available in sizes 4 -8</li><li>Handmade in New York City</li></ul>",
+    "price": 12000,
+    "totalFollower": 108,
+    "followers": [
+      {
+        "id": 1,
+        "name": "Allison",
+        "avatar": "img/00allisonmcleod29.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Josh",
+        "avatar": "img/00joshhannah11.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Steve",
+        "avatar": "img/00stevecurry51.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Norah",
+        "avatar": "img/00phuad.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Thomas",
+        "avatar": "img/00phuaf.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Lily",
+        "avatar": "img/00phuab.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Andrea",
+        "avatar": "img/00phuac.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Mike",
+        "avatar": "img/00phuae.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Laura",
+        "avatar": "img/00phuah.jpg"
+      },
+      {
+        "id": 10,
+        "name": "christine",
+        "avatar": "img/00phuag.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Adam",
+        "avatar": "img/00phuax.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Naomi",
+        "avatar": "img/00phuao.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Kelly",
+        "avatar": "img/00phuam.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Katie",
+        "avatar": "img/00phuay.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "type": "product",
+    "mediaType": "image",
+    "mediaUrl": "img/pfash.jpg",
+    "mediaMore": [{"mediaType":"image", "mediaUrl":"img/watchgl.jpg"},{"mediaType":"image", "mediaUrl":"img/p53penb.jpg"},{"mediaType":"image", "mediaUrl":"img/pfash.jpg"}],
+    "text": "Haute Couture",
+    "overview":"<ul><li>Sterling silver</li><li>Available in sizes 4 -8</li><li>Handmade in New York City</li></ul>",
+    "price": 159,
+    "totalFollower": 347,
+    "followers": [
+      {
+        "id": 1,
+        "name": "Norah",
+        "avatar": "img/00phuao.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Josh",
+        "avatar": "img/00phuam.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Kelly",
+        "avatar": "img/00phuah.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "type": "product",
+    "mediaType": "image",
+    "mediaUrl": "img/pcontp.jpg",
+    "mediaMore": [{"mediaType":"image", "mediaUrl":"img/watchgl.jpg"},{"mediaType":"image", "mediaUrl":"img/p53penb.jpg"},{"mediaType":"image", "mediaUrl":"img/pfash.jpg"}],
+    "text": "Bang and Olufsen Play",
+    "overview":"<ul><li>Sterling silver</li><li>Available in sizes 4 -8</li><li>Handmade in New York City</li></ul>",
+    "price": 49,
+    "totalFollower": 148,
+    "followers": [
+      {
+        "id": 1,
+        "name": "Norah",
+        "avatar": "img/00allisonmcleod29.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Josh",
+        "avatar": "img/00joshhannah11.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Kelly",
+        "avatar": "img/00phuad.jpg"
+      }
+    ]
+  }
+],
+"viewestProduct":[
+  {
+    "id": 1,
+    "type": "product",
+    "mediaType": "youtubeVideo",
+    "mediaUrl": "https://www.youtube.com/watch?v=amhtkloe06k",
+    "mediaMore": [{"mediaType":"image", "mediaUrl":"img/watchgl.jpg"},{"mediaType":"image", "mediaUrl":"img/p53penb.jpg"},{"mediaType":"image", "mediaUrl":"img/pfash.jpg"}],
+    "text": "goTenna Smartphone Antenna",
+    "overview":"<ul><li>Sterling silver</li><li>Available in sizes 4 -8</li><li>Handmade in New York City</li></ul>",
+    "price": 120,
+    "totalFollower": 1162,
+    "followers": [
+      {
+        "id": 1,
+        "name": "Allison",
+        "avatar": "img/00allisonmcleod29.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Josh",
+        "avatar": "img/00joshhannah11.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Steve",
+        "avatar": "img/00stevecurry51.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Norah",
+        "avatar": "img/00phuad.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Thomas",
+        "avatar": "img/00phuaf.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Lily",
+        "avatar": "img/00phuab.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Andrea",
+        "avatar": "img/00phuac.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Mike",
+        "avatar": "img/00phuae.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Laura",
+        "avatar": "img/00phuah.jpg"
+      },
+      {
+        "id": 10,
+        "name": "christine",
+        "avatar": "img/00phuag.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Adam",
+        "avatar": "img/00phuax.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Naomi",
+        "avatar": "img/00phuao.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Kelly",
+        "avatar": "img/00phuam.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Katie",
+        "avatar": "img/00phuay.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "type": "product",
+    "mediaType": "image",
+    "mediaUrl": "img/watchgl.jpg",
+    "mediaMore": [{"mediaType":"image", "mediaUrl":"img/watchgl.jpg"},{"mediaType":"image", "mediaUrl":"img/p53penb.jpg"},{"mediaType":"image", "mediaUrl":"img/pfash.jpg"}],
+    "text": "goTenna Smartphone Antenna",
+    "overview":"<ul><li>Sterling silver</li><li>Available in sizes 4 -8</li><li>Handmade in New York City</li></ul>",
+    "price": 12000,
+    "totalFollower": 2320,
+    "followers": [
+      {
+        "id": 1,
+        "name": "Allison",
+        "avatar": "img/00allisonmcleod29.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Josh",
+        "avatar": "img/00joshhannah11.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Steve",
+        "avatar": "img/00stevecurry51.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Norah",
+        "avatar": "img/00phuad.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Thomas",
+        "avatar": "img/00phuaf.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Lily",
+        "avatar": "img/00phuab.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Andrea",
+        "avatar": "img/00phuac.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Mike",
+        "avatar": "img/00phuae.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Laura",
+        "avatar": "img/00phuah.jpg"
+      },
+      {
+        "id": 10,
+        "name": "christine",
+        "avatar": "img/00phuag.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Adam",
+        "avatar": "img/00phuax.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Naomi",
+        "avatar": "img/00phuao.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Kelly",
+        "avatar": "img/00phuam.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Katie",
+        "avatar": "img/00phuay.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "type": "product",
+    "mediaType": "image",
+    "mediaUrl": "img/p53penb.jpg",
+    "mediaMore": [{"mediaType":"image", "mediaUrl":"img/watchgl.jpg"},{"mediaType":"image", "mediaUrl":"img/p53penb.jpg"},{"mediaType":"image", "mediaUrl":"img/pfash.jpg"}],
+    "text": "53 Walnut Finish Pen",
+    "overview":"<ul><li>Sterling silver</li><li>Available in sizes 4 -8</li><li>Handmade in New York City</li></ul>",
+    "price": 200,
+    "totalFollower": 260,
+    "followers": [
+      {
+        "id": 1,
+        "name": "Norah",
+        "avatar": "img/00phuad.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Josh",
+        "avatar": "img/00joshhannah11.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Kelly",
+        "avatar": "img/00phuam.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "type": "product",
+    "mediaType": "image",
+    "mediaUrl": "img/boplay.png",
+    "mediaMore": [{"mediaType":"image", "mediaUrl":"img/watchgl.jpg"},{"mediaType":"image", "mediaUrl":"img/p53penb.jpg"},{"mediaType":"image", "mediaUrl":"img/pfash.jpg"}],
+    "text": "Bang and Olufsen Play",
+    "overview":"<ul><li>Sterling silver</li><li>Available in sizes 4 -8</li><li>Handmade in New York City</li></ul>",
+    "price": 648,
+    "totalFollower": 249,
+    "followers": [
+      {
+        "id": 1,
+        "name": "Norah",
+        "avatar": "img/00phuad.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Josh",
+        "avatar": "img/00joshhannah11.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Kelly",
+        "avatar": "img/00phuam.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "type": "product",
+    "mediaType": "vimeoVideo",
+    "mediaUrl": "https://vimeo.com/185808340",
+    "mediaMore": [{"mediaType":"image", "mediaUrl":"img/watchgl.jpg"},{"mediaType":"image", "mediaUrl":"img/p53penb.jpg"},{"mediaType":"image", "mediaUrl":"img/pfash.jpg"}],
+    "text": "goTenna Smartphone Antenna",
+    "overview":"<ul><li>Sterling silver</li><li>Available in sizes 4 -8</li><li>Handmade in New York City</li></ul>",
+    "price": 120,
+    "totalFollower": 148,
+    "followers": [
+      {
+        "id": 1,
+        "name": "Allison",
+        "avatar": "img/00allisonmcleod29.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Josh",
+        "avatar": "img/00joshhannah11.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Steve",
+        "avatar": "img/00stevecurry51.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Norah",
+        "avatar": "img/00phuad.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Thomas",
+        "avatar": "img/00phuaf.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Lily",
+        "avatar": "img/00phuab.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Andrea",
+        "avatar": "img/00phuac.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Mike",
+        "avatar": "img/00phuae.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Laura",
+        "avatar": "img/00phuah.jpg"
+      },
+      {
+        "id": 10,
+        "name": "christine",
+        "avatar": "img/00phuag.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Adam",
+        "avatar": "img/00phuax.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Naomi",
+        "avatar": "img/00phuao.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Kelly",
+        "avatar": "img/00phuam.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Katie",
+        "avatar": "img/00phuay.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "type": "product",
+    "mediaType": "image",
+    "mediaUrl": "img/pbed.jpg",
+    "mediaMore": [{"mediaType":"image", "mediaUrl":"img/watchgl.jpg"},{"mediaType":"image", "mediaUrl":"img/p53penb.jpg"},{"mediaType":"image", "mediaUrl":"img/pfash.jpg"}],
+    "text": "Elegant Bedside Table",
+    "overview":"<ul><li>Sterling silver</li><li>Available in sizes 4 -8</li><li>Handmade in New York City</li></ul>",
+    "price": 12000,
+    "totalFollower": 108,
+    "followers": [
+      {
+        "id": 1,
+        "name": "Allison",
+        "avatar": "img/00allisonmcleod29.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Josh",
+        "avatar": "img/00joshhannah11.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Steve",
+        "avatar": "img/00stevecurry51.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Norah",
+        "avatar": "img/00phuad.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Thomas",
+        "avatar": "img/00phuaf.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Lily",
+        "avatar": "img/00phuab.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Andrea",
+        "avatar": "img/00phuac.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Mike",
+        "avatar": "img/00phuae.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Laura",
+        "avatar": "img/00phuah.jpg"
+      },
+      {
+        "id": 10,
+        "name": "christine",
+        "avatar": "img/00phuag.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Adam",
+        "avatar": "img/00phuax.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Naomi",
+        "avatar": "img/00phuao.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Kelly",
+        "avatar": "img/00phuam.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Katie",
+        "avatar": "img/00phuay.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "type": "product",
+    "mediaType": "image",
+    "mediaUrl": "img/pfash.jpg",
+    "mediaMore": [{"mediaType":"image", "mediaUrl":"img/watchgl.jpg"},{"mediaType":"image", "mediaUrl":"img/p53penb.jpg"},{"mediaType":"image", "mediaUrl":"img/pfash.jpg"}],
+    "text": "Haute Couture",
+    "overview":"<ul><li>Sterling silver</li><li>Available in sizes 4 -8</li><li>Handmade in New York City</li></ul>",
+    "price": 159,
+    "totalFollower": 347,
+    "followers": [
+      {
+        "id": 1,
+        "name": "Norah",
+        "avatar": "img/00phuao.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Josh",
+        "avatar": "img/00phuam.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Kelly",
+        "avatar": "img/00phuah.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "type": "product",
+    "mediaType": "image",
+    "mediaUrl": "img/pcontp.jpg",
+    "mediaMore": [{"mediaType":"image", "mediaUrl":"img/watchgl.jpg"},{"mediaType":"image", "mediaUrl":"img/p53penb.jpg"},{"mediaType":"image", "mediaUrl":"img/pfash.jpg"}],
+    "text": "Bang and Olufsen Play",
+    "overview":"<ul><li>Sterling silver</li><li>Available in sizes 4 -8</li><li>Handmade in New York City</li></ul>",
+    "price": 49,
+    "totalFollower": 148,
+    "followers": [
+      {
+        "id": 1,
+        "name": "Norah",
+        "avatar": "img/00allisonmcleod29.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Josh",
+        "avatar": "img/00joshhannah11.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Kelly",
+        "avatar": "img/00phuad.jpg"
+      }
+    ]
+  }
+]
+}

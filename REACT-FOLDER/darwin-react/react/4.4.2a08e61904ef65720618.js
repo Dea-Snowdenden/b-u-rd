@@ -1,0 +1,1 @@
+webpackJsonp([4],{280:function(e,t,u){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n=u(50);t.default=function(e){return{path:"checkout",getComponent:function(t,c){u.e(14,function(t){var o=u(279).default,r=u(161).default;(0,n.injectReducer)(e,{key:"product",reducer:r}),c(null,o)})}}}}});

@@ -1,0 +1,1 @@
+webpackJsonp([5],{277:function(e,t,u){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var c=u(50);t.default=function(e){return{path:"cart",getComponent:function(t,n){u.e(7,function(t){var r=u(276).default,a=u(158).default,d=u(159).default;(0,c.injectReducer)(e,{key:"cart",reducer:a}),(0,c.injectReducer)(e,{key:"product",reducer:d}),n(null,r)})}}}}});

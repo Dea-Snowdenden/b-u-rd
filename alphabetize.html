@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="text-align: center">Click the button to sort the array.</h1>
+
+<button onclick="myFunction()">Try it</button>
+
+<p id="demo"></p>
+
+<script>
+var colors = ["Blue", "Yellow", "White", "Pink", "Green", "Skyblue", "Orange", "Rubyred", "Rosegold"];
+document.getElementById("demo").innerHTML = colors;
+
+function myFunction() {
+    colors.sort();
+    document.getElementById("demo").innerHTML = colors;
+}
+</script>
+
+</body>
+</html>
